@@ -1,0 +1,53 @@
+# Environnement virtuel Python
+venv/
+.env/
+.env.bak/
+*.env
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs et fichiers temporaires
+*.log
+*.out
+*.bak
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Fichiers DuckDB (non versionnés sur GitHub)
+*.duckdb
+*.duckdb-journal
+
+# SQLite (au cas où)
+*.sqlite
+*.db
+
+# VSCode / PyCharm / autres IDE
+.vscode/
+.idea/
+*.iml
+
+# Coverage / tests
+.cache/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Fichiers personnels ou de travail local
+*.swp
+*.swo
+*.zip
+*.tar.gz
