@@ -80,6 +80,8 @@ Ce projet s’appuie sur des **données ouvertes (open data)** mises à disposit
 | **CC0**                          | ✅ Oui                     | ❌ Non                         | ✅ Oui                     | ❌ Non                       | Domaine public : aucune contrainte d’usage. Peu courant dans ce projet. |
 | **Propriétaire / Restreinte**    | ❌ Non (ou limitée)        | ❌                             | ❌                         | ❌ Non (exclue)              | Données non intégrées. Licence incompatible ou usage non autorisé.      |
 
+🔎 **Ce projet se positionne au niveau de la phase d’intégration et de structuration**, juste après l’acquisition des données sources, et avant leur éventuelle exposition via API, dashboard ou outil BI.
+
 Un fichier `docs/LICENSES.md` est disponible pour un récapitulatif détaillé.
 
 ### 📊 Thématiques couvertes
